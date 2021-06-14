@@ -1,1 +1,2 @@
 Quick file for hotfix_1 branch
+Quick line for hotfix_2 branch
